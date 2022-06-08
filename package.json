@@ -1,0 +1,19 @@
+{
+  "name": "11-45-g",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "script.js",
+  "scripts": {
+    "test": "test",
+    "start": "node script"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rnbsov/11-45-G"
+  },
+  "keywords": [
+    "discord-bot"
+  ],
+  "author": "Rnbsov",
+  "license": "MIT"
+}

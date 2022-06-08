@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules
+
+# smth that keeps sensitive values safe
+config.json
