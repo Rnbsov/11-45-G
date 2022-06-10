@@ -11,6 +11,10 @@
     "type": "git",
     "url": "https://github.com/Rnbsov/11-45-G"
   },
+  "engines": {
+    "node": "v16.15.0",
+    "npm": "8.12.1"
+  },
   "keywords": [
     "discord-bot"
   ],
