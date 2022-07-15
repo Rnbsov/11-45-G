@@ -11,11 +11,5 @@ updates:
       interval: "daily"
       # Check for npm updates at 9am UTC
       time: "09:00"
-  - package-ecosystem: "discord.js"
-    directory: "/"
-    schedule:
-      interval: "daily"
-      # Check for npm updates at 9am UTC
-      time: "weekly"
-      day: "sunday"
+
     
