@@ -12,8 +12,8 @@
     "url": "https://github.com/Rnbsov/11-45-G"
   },
   "engines": {
-    "node": "v16.15.0",
-    "npm": "8.12.1"
+    "node": ">=16.15.1",
+    "npm": ">=8.12.2"
   },
   "keywords": [
     "discord-bot"
@@ -23,10 +23,10 @@
   "dependencies": {
     "@discordjs/builders": "^0.15.0",
     "@discordjs/rest": "^0.5.0",
-    "discord-api-types": "^0.33.5",
-    "discord.js": "^13.8.0"
+    "discord-api-types": "^0.35.0",
+    "discord.js": "^13.8.1"
   },
   "devDependencies": {
-    "eslint": "^8.17.0"
+    "eslint": "^8.18.0"
   }
 }
